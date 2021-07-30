@@ -7,7 +7,9 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@types/qrcode": "^1.4.1",
     "antd": "^4.16.9",
+    "qrcode": "^1.4.4",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
