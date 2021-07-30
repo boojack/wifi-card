@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Card, Form, Input, Layout, Space, Image, Button, Divider } from 'antd'
+import { Card, Form, Input, Layout, Space, Image, Button } from 'antd'
 import { Content } from 'antd/lib/layout/layout'
 import qrcode from 'qrcode'
 import './App.css'
